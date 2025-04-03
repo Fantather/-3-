@@ -3,7 +3,7 @@
 
 int main()
 {
-    
+    cout << "Hi from Olya!" << endl;
 }
 
 //Задание 1
