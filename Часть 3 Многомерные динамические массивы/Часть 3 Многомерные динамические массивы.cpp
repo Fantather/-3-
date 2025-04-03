@@ -3,7 +3,7 @@
 
 int main()
 {
-    
+	cout << "hello from Bodya(づ￣ 3￣)づ"<<endl;
 }
 
 //Задание 1
